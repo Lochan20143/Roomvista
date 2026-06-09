@@ -1,0 +1,24 @@
+{
+  "project_id": "1a23a107-5f55-423f-8325-f26d21eed598",
+  "name": "My Room Scan",
+  "type": "image_set",
+  "status": "images_saved",
+  "message": "Images saved. Process them in Polycam/RealityScan and upload the exported GLB.",
+  "created_at": "2026-06-03T03:40:42.487421Z",
+  "updated_at": "2026-06-03T03:40:42.487445Z",
+  "model_url": null,
+  "image_count": 11,
+  "files": [
+    "room_view_1.png",
+    "room_view_2.png",
+    "room_view_3.png",
+    "room_view_4.png",
+    "room_view_5.png",
+    "room_view_6.png",
+    "room_view_7.png",
+    "room_view_8.png",
+    "room_view_9.png",
+    "room_view_10.png",
+    "room_view_11.png"
+  ]
+}

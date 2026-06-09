@@ -1,0 +1,11 @@
+{
+  "project_id": "ae6075f1-d2f4-4948-a772-461949dd6a72",
+  "name": "My Room Scan",
+  "type": "uploaded_model",
+  "status": "ready",
+  "message": "3D model uploaded and ready.",
+  "created_at": "2026-06-03T04:08:28.893106Z",
+  "updated_at": "2026-06-03T04:08:28.893132Z",
+  "model_url": "http://localhost:8000/models/ae6075f1-d2f4-4948-a772-461949dd6a72/model.glb",
+  "source_file": "3_6_2026.glb"
+}

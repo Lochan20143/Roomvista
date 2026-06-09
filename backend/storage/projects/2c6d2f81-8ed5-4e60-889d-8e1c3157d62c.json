@@ -1,0 +1,11 @@
+{
+  "project_id": "2c6d2f81-8ed5-4e60-889d-8e1c3157d62c",
+  "name": "My Room Scan",
+  "type": "uploaded_model",
+  "status": "ready",
+  "message": "3D model uploaded and ready.",
+  "created_at": "2026-06-03T04:58:16.589407Z",
+  "updated_at": "2026-06-03T04:58:16.589425Z",
+  "model_url": "http://localhost:8000/models/2c6d2f81-8ed5-4e60-889d-8e1c3157d62c/model.glb",
+  "source_file": "living_room_interior_free.glb"
+}
